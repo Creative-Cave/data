@@ -1,6 +1,6 @@
 {
     "data": {
-        "id_ticker": 7,
+        "id_ticker": 8,
         "review_ticker": 1,
         "submission_ticker": 1
     },
@@ -34,6 +34,16 @@
             "author": "Question#2818",
             "link": "https://docs.google.com/document/d/e/2PACX-1vR0OK_UPbMXOab2P8hh-mlp-s-Ckz1bcV0Tq8cq88hSRSRLWAenvspXgQmJwc3fM77SOooS0tlg8JTn/pub",
             "reviews": {}
+        },
+        "7": {
+            "title": "title",
+            "authors": [
+                "authors"
+            ],
+            "genres": [
+                "genres"
+            ],
+            "url": "url"
         }
     },
     "submissions": {}

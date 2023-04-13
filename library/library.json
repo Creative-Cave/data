@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 2
+        "submission_ticker": 3
     },
     "library": {},
     "submissions": {
@@ -14,6 +14,13 @@
             "submitted_by": 410142293610332160
         },
         "1": {
+            "title": "billy",
+            "author": "sucked",
+            "genre": "my",
+            "url": "cock.com",
+            "submitted_by": 410142293610332160
+        },
+        "2": {
             "title": "billy",
             "author": "sucked",
             "genre": "my",

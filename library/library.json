@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 4
+        "submission_ticker": 5
     },
     "library": {},
     "submissions": {
@@ -32,6 +32,13 @@
             "author": "sucked",
             "genre": "my",
             "url": "cock.com",
+            "submitted_by": 410142293610332160
+        },
+        "4": {
+            "title": "LOOK",
+            "author": "AT",
+            "genre": "MY",
+            "url": "CANVA.DESIGN",
             "submitted_by": 410142293610332160
         }
     }

@@ -2,58 +2,10 @@
     "data": {
         "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 7
+        "submission_ticker": 0
     },
     "library": {},
     "submissions": {
-        "0": {
-            "title": "billy",
-            "author": "sucked",
-            "genre": "my",
-            "url": "cock.com",
-            "submitted_by": 410142293610332160
-        },
-        "1": {
-            "title": "billy",
-            "author": "sucked",
-            "genre": "my",
-            "url": "cock.com",
-            "submitted_by": 410142293610332160
-        },
-        "2": {
-            "title": "billy",
-            "author": "sucked",
-            "genre": "my",
-            "url": "cock.com",
-            "submitted_by": 410142293610332160
-        },
-        "3": {
-            "title": "billy",
-            "author": "sucked",
-            "genre": "my",
-            "url": "cock.com",
-            "submitted_by": 410142293610332160
-        },
-        "4": {
-            "title": "LOOK",
-            "author": "AT",
-            "genre": "MY",
-            "url": "CANVA.DESIGN",
-            "submitted_by": 410142293610332160
-        },
-        "5": {
-            "title": "RON",
-            "author": "SKINNER",
-            "genre": "AND",
-            "url": "SONS \u203c\ufe0f",
-            "submitted_by": 410142293610332160
-        },
-        "6": {
-            "title": "WHERE",
-            "author": "CARS",
-            "genre": "COST",
-            "url": "LESS",
-            "submitted_by": 410142293610332160
-        }
+        
     }
 }

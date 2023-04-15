@@ -2,8 +2,16 @@
     "data": {
         "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 0
+        "submission_ticker": 1
     },
     "library": {},
-    "submissions": {}
+    "submissions": {
+        "0": {
+            "title": "Test",
+            "author": "Canva",
+            "genre": "Non-Fiction",
+            "url": "Design",
+            "submitted_by": 573527640435195918
+        }
+    }
 }

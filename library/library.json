@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 1
+        "submission_ticker": 2
     },
     "library": {},
     "submissions": {
@@ -12,6 +12,13 @@
             "genre": "Non-Fiction",
             "url": "Design",
             "submitted_by": 573527640435195918
+        },
+        "1": {
+            "title": "Test",
+            "author": "ScrybeSux",
+            "genre": "Comedy",
+            "url": "scrybe.is/a/loser",
+            "submitted_by": 410142293610332160
         }
     }
 }

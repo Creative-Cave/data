@@ -1,6 +1,6 @@
 {
     "data": {
-        "id_ticker": 2,
+        "id_ticker": 3,
         "review_ticker": 0,
         "submission_ticker": 3
     },
@@ -16,15 +16,13 @@
             "author": "Canva",
             "genre": "Non-Fiction",
             "url": "Design"
-        }
-    },
-    "submissions": {
+        },
         "2": {
             "title": "Scrybe",
             "author": "SucksButt",
             "genre": "Poetry",
-            "url": "scrybe.sux",
-            "submitted_by": 410142293610332160
+            "url": "scrybe.sux"
         }
-    }
+    },
+    "submissions": {}
 }

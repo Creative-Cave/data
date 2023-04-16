@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 4,
         "review_ticker": 0,
-        "submission_ticker": 4
+        "submission_ticker": 5
     },
     "library": {
         "0": {
@@ -30,5 +30,13 @@
             "url": "scrybeissihot.com"
         }
     },
-    "submissions": {}
+    "submissions": {
+        "4": {
+            "title": "Donald Duck Fanfic",
+            "author": "Deltah",
+            "genre": "Horror",
+            "url": "dontclickthis.co.ukk",
+            "submitted_by": 573527640435195918
+        }
+    }
 }

@@ -1,6 +1,6 @@
 {
     "data": {
-        "id_ticker": 3,
+        "id_ticker": 4,
         "review_ticker": 0,
         "submission_ticker": 4
     },
@@ -22,15 +22,13 @@
             "author": "SucksButt",
             "genre": "Poetry",
             "url": "scrybe.sux"
-        }
-    },
-    "submissions": {
+        },
         "3": {
             "title": "50 Shades of Scrybe",
             "author": "Not Caius",
             "genre": "Fantasy",
-            "url": "scrybeissihot.com",
-            "submitted_by": 573527640435195918
+            "url": "scrybeissihot.com"
         }
-    }
+    },
+    "submissions": {}
 }

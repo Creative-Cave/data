@@ -1,6 +1,6 @@
 {
     "data": {
-        "id_ticker": 4,
+        "id_ticker": 5,
         "review_ticker": 0,
         "submission_ticker": 5
     },
@@ -28,15 +28,13 @@
             "author": "Not Caius",
             "genre": "Fantasy",
             "url": "scrybeissihot.com"
-        }
-    },
-    "submissions": {
+        },
         "4": {
             "title": "Donald Duck Fanfic",
             "author": "Deltah",
             "genre": "Horror",
-            "url": "dontclickthis.co.ukk",
-            "submitted_by": 573527640435195918
+            "url": "dontclickthis.co.ukk"
         }
-    }
+    },
+    "submissions": {}
 }

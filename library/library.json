@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 3,
         "review_ticker": 0,
-        "submission_ticker": 3
+        "submission_ticker": 4
     },
     "library": {
         "0": {
@@ -24,5 +24,13 @@
             "url": "scrybe.sux"
         }
     },
-    "submissions": {}
+    "submissions": {
+        "3": {
+            "title": "50 Shades of Scrybe",
+            "author": "Not Caius",
+            "genre": "Fantasy",
+            "url": "scrybeissihot.com",
+            "submitted_by": 573527640435195918
+        }
+    }
 }

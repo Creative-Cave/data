@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 2,
         "review_ticker": 0,
-        "submission_ticker": 2
+        "submission_ticker": 3
     },
     "library": {
         "0": {
@@ -18,5 +18,13 @@
             "url": "Design"
         }
     },
-    "submissions": {}
+    "submissions": {
+        "2": {
+            "title": "Scrybe",
+            "author": "SucksButt",
+            "genre": "Poetry",
+            "url": "scrybe.sux",
+            "submitted_by": 410142293610332160
+        }
+    }
 }

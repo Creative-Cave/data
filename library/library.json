@@ -1,40 +1,9 @@
 {
     "data": {
-        "id_ticker": 5,
+        "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 5
+        "submission_ticker": 0
     },
-    "library": {
-        "0": {
-            "title": "Test",
-            "author": "ScrybeSux",
-            "genre": "Comedy",
-            "url": "scrybe.is/a/loser"
-        },
-        "1": {
-            "title": "Test",
-            "author": "Canva",
-            "genre": "Non-Fiction",
-            "url": "Design"
-        },
-        "2": {
-            "title": "Scrybe",
-            "author": "SucksButt",
-            "genre": "Poetry",
-            "url": "scrybe.sux"
-        },
-        "3": {
-            "title": "50 Shades of Scrybe",
-            "author": "Not Caius",
-            "genre": "Fantasy",
-            "url": "scrybeissihot.com"
-        },
-        "4": {
-            "title": "Donald Duck Fanfic",
-            "author": "Deltah",
-            "genre": "Horror",
-            "url": "dontclickthis.co.ukk"
-        }
-    },
+    "library": {},
     "submissions": {}
 }

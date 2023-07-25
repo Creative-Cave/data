@@ -2,10 +2,16 @@
     "data": {
         "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 0
+        "submission_ticker": 1
     },
-    "library": {
-        
-    },
-    "submissions": {}
+    "library": {},
+    "submissions": {
+        "id0": {
+            "title": "Test",
+            "author": "Testy McTestface",
+            "genre": "Fantasy",
+            "url": "test.com",
+            "submitted_by": 410142293610332160
+        }
+    }
 }

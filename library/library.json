@@ -1,6 +1,6 @@
 {
     "data": {
-        "id_ticker": 1,
+        "id_ticker": 2,
         "review_ticker": 0,
         "submission_ticker": 2
     },
@@ -11,9 +11,7 @@
             "genre": "Mystery",
             "url": "hehe",
             "submitted_by": 573527640435195918
-        }
-    },
-    "submissions": {
+        },
         "1": {
             "title": "some other work",
             "author": "bob the builder",
@@ -21,5 +19,6 @@
             "url": "bob.the.builder/doc",
             "submitted_by": 410142293610332160
         }
-    }
+    },
+    "submissions": {}
 }

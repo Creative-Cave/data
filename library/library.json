@@ -1,11 +1,10 @@
 {
     "data": {
-        "id_ticker": 0,
+        "id_ticker": 1,
         "review_ticker": 0,
         "submission_ticker": 1
     },
-    "library": {},
-    "submissions": {
+    "library": {
         "id0": {
             "title": "Test",
             "author": "Testy McTestface",
@@ -13,5 +12,6 @@
             "url": "test.com",
             "submitted_by": 410142293610332160
         }
-    }
+    },
+    "submissions": {}
 }

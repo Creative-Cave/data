@@ -1,24 +1,11 @@
 {
     "data": {
-        "id_ticker": 2,
+        "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 2
+        "submission_ticker": 0
     },
     "library": {
-        "0": {
-            "title": "hehe",
-            "author": "hehe",
-            "genre": "Mystery",
-            "url": "hehe",
-            "submitted_by": 573527640435195918
-        },
-        "1": {
-            "title": "some other work",
-            "author": "bob the builder",
-            "genre": "Romance",
-            "url": "bob.the.builder/doc",
-            "submitted_by": 410142293610332160
-        }
+        
     },
     "submissions": {}
 }

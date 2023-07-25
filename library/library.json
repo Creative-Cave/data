@@ -1,11 +1,10 @@
 {
     "data": {
-        "id_ticker": 0,
+        "id_ticker": 1,
         "review_ticker": 0,
         "submission_ticker": 1
     },
-    "library": {},
-    "submissions": {
+    "library": {
         "0": {
             "title": "hehe",
             "author": "hehe",
@@ -13,5 +12,6 @@
             "url": "hehe",
             "submitted_by": 573527640435195918
         }
-    }
+    },
+    "submissions": {}
 }

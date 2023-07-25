@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 1,
         "review_ticker": 0,
-        "submission_ticker": 1
+        "submission_ticker": 2
     },
     "library": {
         "0": {
@@ -13,5 +13,13 @@
             "submitted_by": 573527640435195918
         }
     },
-    "submissions": {}
+    "submissions": {
+        "1": {
+            "title": "some other work",
+            "author": "bob the builder",
+            "genre": "Romance",
+            "url": "bob.the.builder/doc",
+            "submitted_by": 410142293610332160
+        }
+    }
 }

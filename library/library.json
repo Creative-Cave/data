@@ -2,12 +2,16 @@
     "data": {
         "id_ticker": 0,
         "review_ticker": 0,
-        "submission_ticker": 0
+        "submission_ticker": 1
     },
-    "library": {
-
-    },
+    "library": {},
     "submissions": {
-
+        "id0": {
+            "title": "some test",
+            "author": "some author",
+            "genre": "Fantasy",
+            "url": "https://google.com/",
+            "submitted_by": 410142293610332160
+        }
     }
 }

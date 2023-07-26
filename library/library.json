@@ -5,27 +5,27 @@
         "submission_ticker": 0
     },
     "library": {
-        "1": {
+        "id1": {
             "title": "The Monke Lands Lore",
             "author": "The Monke Lands Community",
             "url": "https://docs.google.com/document/d/1rLR_SQxr7XqKaZ1Yvf78fM6DaPNxL-pEKbtOVEb2bLE/edit?usp=drivesdk"
         },
-        "2": {
+        "id2": {
             "title": "When The Sky Falls - Prologue Excerpt",
             "author": "Caius#4661",
             "url": "https://docs.google.com/document/d/1NoBmCx2YnubE6dMdyJ-E20x5Dv2ubSBcmmJ5lE4MUFc/edit?usp=drivesdk"
         },
-        "3": {
+        "id3": {
             "title": "The Wooden Table",
             "author": "Detective#0674",
             "url": "https://docs.google.com/document/d/1bQ4wJpm9ybd5O3Cyf7XNnIoZs3oKUnn7Cp_Lvpu09P8/edit"
         },
-        "4": {
+        "id4": {
             "title": "Paintings",
             "author": "Caius IV",
             "url": "https://docs.google.com/document/d/1XfKwwmhOc_4byhVuuh4ZsmffVZ4EbfUydJgktJhoG5g/edit?usp=drivesdk"
         },
-        "5": {
+        "id5": {
             "title": "Welcome to Whitefall Park",
             "author": "Question#2818",
             "url": "https://docs.google.com/document/d/e/2PACX-1vR0OK_UPbMXOab2P8hh-mlp-s-Ckz1bcV0Tq8cq88hSRSRLWAenvspXgQmJwc3fM77SOooS0tlg8JTn/pub"

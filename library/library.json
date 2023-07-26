@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 1,
         "review_ticker": 0,
-        "submission_ticker": 1
+        "submission_ticker": 2
     },
     "library": {
         "id0": {
@@ -13,5 +13,13 @@
             "submitted_by": 410142293610332160
         }
     },
-    "submissions": {}
+    "submissions": {
+        "id1": {
+            "title": "i",
+            "author": "just",
+            "genre": "Poetry",
+            "url": "shat.my/self",
+            "submitted_by": 410142293610332160
+        }
+    }
 }

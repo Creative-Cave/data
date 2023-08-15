@@ -1,6 +1,6 @@
 {
     "data": {
-        "id_ticker": 6,
+        "id_ticker": 7,
         "review_ticker": 0,
         "submission_ticker": 1
     },
@@ -24,15 +24,14 @@
             "title": "Paintings",
             "author": "Caius",
             "url": "https://docs.google.com/document/d/1XfKwwmhOc_4byhVuuh4ZsmffVZ4EbfUydJgktJhoG5g/edit?usp=drivesdk"
-        }
-    },
-    "submissions": {
-        "id0": {
+        },
+        "id6": {
             "title": "The Watcher on the Wall",
             "author": "Aspen",
             "genre": "Poetry",
             "url": "https://docs.google.com/document/d/12bsGsO-_Svx8wHPFNg4KMRRrzfOAeo7y7nGfRR8Rj0M/edit?usp=drivesdk",
             "submitted_by": 573527640435195918
         }
-    }
+    },
+    "submissions": {}
 }

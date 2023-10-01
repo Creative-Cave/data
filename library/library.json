@@ -2,7 +2,7 @@
     "data": {
         "id_ticker": 7,
         "review_ticker": 0,
-        "submission_ticker": 2
+        "submission_ticker": 3
     },
     "library": {
         "id1": {
@@ -46,6 +46,13 @@
             "genre": "Sci-Fi",
             "url": "https://docs.google.com/document/d/14mHmIyocqdnk2g4RXK2-j7Smu20u0UCcZp51lhWkZEo/edit?usp=sharing",
             "submitted_by": 638008145435820032
+        },
+        "id2": {
+            "title": "Again",
+            "author": "Primodial",
+            "genre": "Horror",
+            "url": "https://docs.google.com/document/d/1g8lerb8GRkgbzUSbH_JUC__OZxdaLYA6E6JwgQWLAVc/edit?usp=sharing",
+            "submitted_by": 285345147107934208
         }
     }
 }

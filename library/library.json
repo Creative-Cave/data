@@ -1,6 +1,6 @@
 {
     "data": {
-        "id_ticker": 7,
+        "id_ticker": 8,
         "review_ticker": 0,
         "submission_ticker": 3
     },
@@ -37,16 +37,16 @@
             "author": "k.c.8829",
             "genre": "Other",
             "url": "https://docs.google.com/document/d/1hq6TVKI-sRBr3BjHcwV023gS7tpo5Lw4BZe3f2t0lXI/edit?usp=sharing"
-        }
-    },
-    "submissions": {
-        "id1": {
+        },
+        "id7": {
             "title": "Unforgetful",
             "author": "Komodo",
             "genre": "Sci-Fi",
             "url": "https://docs.google.com/document/d/14mHmIyocqdnk2g4RXK2-j7Smu20u0UCcZp51lhWkZEo/edit?usp=sharing",
             "submitted_by": 638008145435820032
-        },
+        }
+    },
+    "submissions": {
         "id2": {
             "title": "Again",
             "author": "Primodial",
